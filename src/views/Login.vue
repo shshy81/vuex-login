@@ -34,6 +34,8 @@
                                 password: password
                             })"
                         >로그인</v-btn>
+                        <!-- <v-btn @click="test">테스트</v-btn>
+                        <v-btn @click="postTest">POST테스트</v-btn> -->
                     </div>
                 </v-card>
             </v-flex>
